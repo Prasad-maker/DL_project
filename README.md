@@ -1,7 +1,1 @@
-# DL_project
-requirements:
-pytorch - 1.11
-cuda - 11.3
-python - 3.10.4
-sklearn - 1.0.2
-numpy - 1.21.5
+
